@@ -1,5 +1,4 @@
-# Phonepe_Transaction_Analysis
-A Power BI dashboard project that analyzes personal PhonePe transaction data and visualizes spending trends, transaction patterns, and financial insights.
+
 # PhonePe Transaction Analysis Dashboard
 
 ## Project Overview
@@ -24,17 +23,10 @@ This project analyzes personal PhonePe transaction data using Power BI. The dash
 - Monthly Transaction Analysis
 - Debit vs Credit Comparison
 - Day-wise Transaction Analysis
-- Interactive Filters (Month, Type, Year)
-
-
-## Dashboard Preview
-
-(Add your dashboard screenshot here)
+-  Filters (Month, Type, Year)
 
 ## Project Files
 - Dashboard.pbix
 - Transaction Dataset.xlsx
 - Dashboard Screenshot.png
 
-## Author
-Alekhya
