@@ -26,5 +26,5 @@ This project analyzes personal PhonePe transaction data using Power BI. The dash
 -  Filters (Month, Type, Year)
 
 ## Dashboard
-[View Dashboard Screenshot](https://github.com/chittemalekhya/Phonepe_Transaction_Analysis/blob/main/PHONEPE_DASHBOARD_SS.png)
+[View Dashboard](https://github.com/chittemalekhya/Phonepe_Transaction_Analysis/blob/main/PHONEPE_DASHBOARD_SS.png)
 
