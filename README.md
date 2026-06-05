@@ -29,8 +29,4 @@ This project analyzes personal PhonePe transaction data using Power BI. The dash
 https://github.com/chittemalekhya/Phonepe_Transaction_Analysis/blob/main/PHONEPE_DASHBOARD_SS.png
 
 
-## Project Files
-- Dashboard.pbix
-- Transaction Dataset.xlsx
-- Dashboard Screenshot.png
 
